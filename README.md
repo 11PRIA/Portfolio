@@ -9,7 +9,7 @@ This is my personal portfolio website built using **React.js**, showcasing my sk
 - HTML/CSS/JavaScript
 
 ## 🌐 Live Demo
-[Click here to view the live site](https://portfolio-n9mv70q8p-priyanka-s-projects-139164db.vercel.app/)  
+[Click here to view the live site](https://portfoliopri.vercel.app/)  
 
 
 ## 📁 Features
